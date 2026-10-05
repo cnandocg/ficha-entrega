@@ -1,0 +1,7 @@
+# Atalho global da Ficha de Entrega.
+# Ctrl+F: o Ctrl nao esta mapeado no Arius (e ignorado) e o F fica preso aqui,
+# entao nao chega ao PDV (no Arius, F sozinho = Funcao; continua funcionando).
+# Evitar Ctrl+Alt+F1..F12 (troca de terminal) e Shift (= Totaliza Venda).
+
+"/opt/ficha-entrega/app/abrir-ficha.sh"
+    Control + f
